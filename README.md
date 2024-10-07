@@ -18,7 +18,7 @@
 <h2 align="center"> ⚒️ Estudando-Linguagens-Frameworks-Ferramentas ⚒️ </h2>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,javascript,typescript,react,next,nest,figma,rest" />
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,javascript,typescript,react,next,nest,figma,node" />
 </div>
 
 
