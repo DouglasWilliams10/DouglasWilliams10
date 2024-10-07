@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/douglaswilliamssp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send/?phone=5547997797452&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/DouglasWilliams10/DouglasWilliams10/blob/output/dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
+  ![Snake animation](https://github.com/DouglasWilliams10/DouglasWilliams10/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
  
 </div>
 
