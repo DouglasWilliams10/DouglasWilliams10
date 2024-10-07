@@ -15,7 +15,7 @@
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasWilliams10&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<h2 align="center"> ⚒️ Estudando-Linguagens-Frameworks-Ferramentas ⚒️ </h2>
+<h2 align="center"> ⚒️ Studying-Languages-Frameworks-Tools ⚒️ </h2>
 <br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,javascript,typescript,react,next,nest,figma,node" />
