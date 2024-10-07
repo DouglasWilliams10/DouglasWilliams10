@@ -6,7 +6,7 @@
 
 - :relaxed: I am a front-end and back-end programmer
 - 🔭 Today I work with technical support
-- 🌱 Currently attending college for Information Systems and Web Development Full Stack
+- 🌱 Currently attending college for Information Systems and Web Development Full Stack, Next.js
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
@@ -15,16 +15,13 @@
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasWilliams10&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,typescript" />
+<h2 align="center"> ⚒️ Estudando-Linguagens-Frameworks-Ferramentas ⚒️ </h2>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,typescript,figma,next.js" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Douglas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Douglas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
 
 ##
 - 📫 Contact me:
