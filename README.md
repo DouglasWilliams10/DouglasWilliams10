@@ -4,9 +4,8 @@
 
 ### Hi! I am Douglas Williams
 
-- :relaxed: I am a front-end and back-end programmer
-- 🔭 Today I work with technical support
-- 🌱 Currently attending college for Information Systems and Web Development Full Stack, Next.js
+- :relaxed: Studying Administration, English and Full-Stack Web Development
+- 💖 I love music, I'm a drummer and I play the guitar
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
