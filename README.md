@@ -4,7 +4,7 @@
 
 ### Hi! I am Douglas Williams
 
-- :relaxed: Studying Administration, English and Full-Stack Web Development
+- 🗯 Student Administration, English and Full-Stack Web Development
 - 💖 I love music, I'm a drummer and I play the guitar
 - 😄 Pronouns: Ele/Dele
 
